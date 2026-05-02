@@ -27,12 +27,12 @@ for transacao in transacoes:
     else:
         soma_por_franquia[transacao["franquia"]] = transacao["valor"]
 
-print (soma_por_franquia)
+print(soma_por_franquia)
 
 # 3. Encontre a franquia com maior total (dica: função max())
 
 maior_valor= max(soma_por_franquia.values())
-print (maior_valor)
+print(maior_valor)
 
 for franquia in soma_por_franquia:
     if soma_por_franquia[franquia] == maior_valor:
@@ -41,4 +41,4 @@ for franquia in soma_por_franquia:
 
 # 4. Imprima: "Franquia top: X com R$ Y em vendas"
 
-print (f'Franquia top: {nome_franquia} com R$ {maior_valor} em vendas ')
+print(f'Franquia top: {nome_franquia} com R$ {maior_valor} em vendas')

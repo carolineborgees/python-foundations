@@ -21,12 +21,13 @@ e para ajudar outros devs que estão começando o mesmo caminho.
 ---
 
 ## 🗺️ Trilha de evolução
-Fase 1 → Fundamentos sólidos       (estruturas, funções, lógica)
-Fase 2 → Manipulação de dados      (Pandas, limpeza, análise)
-Fase 3 → Projetos reais            (ETL, APIs, relatórios)
-Fase 4 → Engenharia de dados       (PySpark, pipelines)
-Fase 5 → Automação                 (scripts, integrações)
-Fase 6 → IA aplicada               (OpenAI API, LangChain)
+
+- Fase 1 → Fundamentos sólidos (estruturas, funções, lógica)
+- Fase 2 → Manipulação de dados (Pandas, limpeza, análise)
+- Fase 3 → Projetos reais (ETL, APIs, relatórios)
+- Fase 4 → Engenharia de dados (PySpark, pipelines)
+- Fase 5 → Automação (scripts, integrações)
+- Fase 6 → IA aplicada (OpenAI API, LangChain)
 
 ---
 
